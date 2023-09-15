@@ -30,7 +30,7 @@ public class Testing1 {
 		 if (age == 100)
 		 {
 			 System.out.println("Congratulations!you are Hundred!!");
-			 System.out.println("Congratulations!");
+			 System.out.println("You are blessed!");
 			// System.out.println("Congratulations!");
 
 		 }
