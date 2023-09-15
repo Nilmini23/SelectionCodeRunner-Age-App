@@ -3,7 +3,7 @@ public class Testing1 {
 
 	public static void main(String[] args) {
 
-		 int age = 100;
+		 int age = 42;
 		 
 		 if (age > 0 && age < 18)
 		 {
@@ -36,7 +36,9 @@ public class Testing1 {
 		 }
 		 if (age < 50 && age > 40)
 		 {
+			 System.out.println("Hey! you are " + age + " now.");
 			 System.out.println("Happy mid life!");
+
  
 		 }
 	}
