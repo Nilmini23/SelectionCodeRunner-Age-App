@@ -29,9 +29,10 @@ public class Testing1 {
 		 }
 		 if (age == 100)
 		 {
+			 System.out.println("Congratulations!you are Hundred!!");
 			 System.out.println("Congratulations!");
-			 System.out.println("Congratulations!");
-			 System.out.println("Congratulations!");
+			// System.out.println("Congratulations!");
+
 		 }
 		 if (age < 50 && age > 40)
 		 {
